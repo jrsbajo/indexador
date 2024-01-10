@@ -1,3 +1,8 @@
 pruebas*
+
+borradores
+__pycache__
+
 *.db
 *.pdf
+*.pyc
