@@ -1,7 +1,8 @@
 # Project Name
 
 ## Description
-Provide a brief description of your project here.
+The indexador project is a Python application that allows users to index and search through a collection of documents. It provides functionality to create an index of keywords and their corresponding documents, as well as perform search queries to retrieve relevant documents based on user input. The project aims to provide an efficient and user-friendly way to organize and retrieve information from a large collection of documents.
+
 
 ## Table of Contents
 - [Installation](#installation)
